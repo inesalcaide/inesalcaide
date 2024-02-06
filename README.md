@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inês </h1>
 <h3 align="center">A passionate Software Engineer with a background in Veterinary Medicine</h3>
+<div>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" data-target="animated-image.originalLink"><img align="right" alt="Coder GIF" height="250" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" data-canonical-src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inesalcaide&label=Profile%20views&color=0e75b6&style=flat" alt="inesalcaide" /> </p>
 
@@ -8,6 +10,10 @@
 - 🌱 I’m currently learning **AWS Cloud Computing Services**
 
 - ⚡ Fun fact **Harry Potter Nerd**
+</div>
+<br/>
+<br/>
+<br/>
 
 
 <h3 align="left">Tech Stack:</h3>
@@ -31,10 +37,11 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>    
 </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inesalcaide&theme=catppuccin_mocha&show_icons=true&locale=en&layout=compact" alt="inesalcaide" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inesalcaide&theme=catppuccin_mocha&show_icons=true&locale=en&layout=compact" alt="inesalcaide" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=inesalcaide&theme=catppuccin_mocha&show_icons=true&locale=en" alt="inesalcaide" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inesalcaide&theme=catppuccin_mocha&show_icons=true&locale=en" alt="inesalcaide" /></p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inesalcaide" alt="inesalcaide" /></a> </p>
-
+-->
